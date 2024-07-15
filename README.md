@@ -1,1 +1,2 @@
 Analyse the Death Age Difference of Right Handers With Left Handers
+                 This project aims to investigate and analyze the death age difference between right-handers and left-handers. The prevailing belief that left-handers have a shorter life expectancy has been questioned in recent studies. By examining age distribution data and comparing it with the prevalence of left-handedness over time, we aim to determine if there is a significant difference in the average age at death between these two groups.
